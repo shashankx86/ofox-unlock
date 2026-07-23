@@ -20,8 +20,8 @@ Connect the device, open a terminal and:
 
 ```bash
 # Linux / macOS
-./recon/ofox_unlock.sh
+./ofox_unlock.sh
 
 # Windows (double-click or from cmd)
-recon\ofox_unlock.bat
+ofox_unlock.bat
 ```
